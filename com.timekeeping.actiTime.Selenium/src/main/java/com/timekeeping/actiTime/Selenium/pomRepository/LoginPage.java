@@ -45,6 +45,9 @@ public class LoginPage {
 		usernameTextField.sendKeys(username);
 		passwordTextField.sendKeys(password);
 		loginButton.click();
+		
+		
+		
 	}
 
 }
